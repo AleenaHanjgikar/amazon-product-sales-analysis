@@ -85,6 +85,31 @@ Section 8  →  Save Cleaned Dataset
 
 ---
 
+
+<img width="882" height="510" alt="image" src="https://github.com/user-attachments/assets/dcad5f83-759a-4efc-89e2-c36800a57b76" />
+
+<img width="884" height="371" alt="image" src="https://github.com/user-attachments/assets/87b31be1-4a6e-4211-8e61-30254ca7d5b1" />
+
+<img width="882" height="388" alt="image" src="https://github.com/user-attachments/assets/c0a11e93-05aa-430f-99a6-48d23aaf0c57" />
+
+<img width="889" height="456" alt="image" src="https://github.com/user-attachments/assets/5fab246a-a841-4669-bcb9-2d931ee6ce55" />
+
+<img width="455" height="489" alt="image" src="https://github.com/user-attachments/assets/77ebf426-dd61-473e-a4b9-27bb90236190" />
+
+<img width="887" height="547" alt="image" src="https://github.com/user-attachments/assets/ab967fbf-bcd3-4cd1-b417-aa323dce84ca" />
+
+<img width="890" height="542" alt="image" src="https://github.com/user-attachments/assets/5d75c3ee-4388-47ec-98ae-c58152651771" />
+
+<img width="733" height="564" alt="image" src="https://github.com/user-attachments/assets/b369e629-bab9-4914-994f-07ba804b3547" />
+
+<img width="886" height="540" alt="image" src="https://github.com/user-attachments/assets/81e23341-2d40-43cc-b679-90f773027e4d" />
+
+<img width="997" height="519" alt="image" src="https://github.com/user-attachments/assets/0427266f-1d3f-40e2-8df4-728eb8f6ec64" />
+
+<img width="832" height="542" alt="image" src="https://github.com/user-attachments/assets/12c91563-8b1b-4816-9c24-1a9e22d05d4d" />
+
+---
+
 ## 💡 Key Business Insights
 
 1. **Best Sellers are cheap + highly reviewed** — $89 avg price, 35,879 avg reviews, 9.5x more sales than regular products
